@@ -334,7 +334,7 @@ minu_time=$(($SECONDS/60))
 sec_time=$(($SECONDS%60))
 
 echo "===============Build_time:"$minu_time"m"$sec_time"s==============="
-
+echo "==========================================-"
 echo "===============Build version==============="
 #cat $ap_pwd/SDX55_apps/apps_proc/poky/build/tmp-glibc/work/sdxprairie-oe-linux-gnueabi/machine-image/1.0-r0/rootfs/etc/quectel-project-version
 
