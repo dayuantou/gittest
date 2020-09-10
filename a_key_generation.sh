@@ -338,3 +338,4 @@ echo "==========================================-"
 echo "===============Build version==============="
 #cat $ap_pwd/SDX55_apps/apps_proc/poky/build/tmp-glibc/work/sdxprairie-oe-linux-gnueabi/machine-image/1.0-r0/rootfs/etc/quectel-project-version
 
+77777777777777777777
